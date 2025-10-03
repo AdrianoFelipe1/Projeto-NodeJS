@@ -4,7 +4,7 @@ Este repositório contém um projeto prático desenvolvido para consolidar conhe
 O objetivo é simular um fluxo real de desenvolvimento e operações (DevOps), desde a criação de uma API até sua implantação em nuvem com pipeline automatizado.
 
 ---
-📌 Objetivos do Projeto
+📌 Objetivos do Projeto 
 - Criar uma API CRUD simples em **Node.js + Express**.
 - Containerizar a aplicação com **Docker**.
 - Realizar deploy em uma instância **AWS EC2**, integrando com **RDS** e **S3**.
