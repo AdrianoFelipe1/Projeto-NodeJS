@@ -11,7 +11,7 @@ O objetivo é simular um fluxo real de desenvolvimento e operações (DevOps), d
 - **AWS (EC2, RDS, S3 )** – Infraestrutura em nuvem.
 - **Git & GitHub** – Versionamento de código.
 - **GitHub Actions** – Automação de pipeline CI/CD.
-- **Postman** – Testes de API.
+- **Postman** – Testes de API.  
 
 ## 📂 Estrutura do Projeto
 
